@@ -7,6 +7,7 @@ public class GameManager : MonoBehaviour
     public CupPlacementHolder[] holders;
     public bool IsDoorUnlocked = false;
     public MeshRenderer Doorknob;
+    public GameObject DoorHandleHolder;
     public Material Locked, Unlocked;
     // Start is called before the first frame update
     void Start()
@@ -45,10 +46,12 @@ public class GameManager : MonoBehaviour
         if(!IsDoorUnlocked)
         {
             Doorknob.material = Locked;
+            DoorHandleHolder.SetActive(false);
         }
         else
         {
             Doorknob.material = Unlocked;
+            DoorHandleHolder.SetActive(true);
         }
     }
 }
