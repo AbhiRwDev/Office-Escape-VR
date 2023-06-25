@@ -4087,6 +4087,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Redmug (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 2173770927803121799, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 2173770927803121799, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2179514810187517755, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
       propertyPath: m_RootOrder
       value: 1
@@ -4310,6 +4318,14 @@ PrefabInstance:
     - target: {fileID: 2173770927803121799, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
       propertyPath: m_Name
       value: Redmug (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2173770927803121799, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 2173770927803121799, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2179514810187517755, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
       propertyPath: m_RootOrder
@@ -8107,6 +8123,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Redmug (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 2173770927803121799, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 2173770927803121799, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2179514810187517755, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -8487,6 +8511,10 @@ PrefabInstance:
     - target: {fileID: 100008, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_Name
       value: OVRPlayerController
+      objectReference: {fileID: 0}
+    - target: {fileID: 100008, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
+      propertyPath: m_Layer
+      value: 11
       objectReference: {fileID: 0}
     - target: {fileID: 400006, guid: ce816f2e6abb0504092c23ed9b970dfd, type: 3}
       propertyPath: m_RootOrder
@@ -9810,6 +9838,9 @@ MonoBehaviour:
   - {fileID: 2128320500}
   - {fileID: 2102408019}
   IsDoorUnlocked: 0
+  Doorknob: {fileID: 1923234073}
+  Locked: {fileID: 2100000, guid: 853af1a5fadbd97499b84b913d78422f, type: 2}
+  Unlocked: {fileID: 2100000, guid: de6a683b125cb3c46896c43f9df75da4, type: 2}
 --- !u!4 &1116128510
 Transform:
   m_ObjectHideFlags: 0
@@ -12392,6 +12423,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Redmug (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 2173770927803121799, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 2173770927803121799, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2179514810187517755, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -13528,6 +13567,14 @@ PrefabInstance:
     - target: {fileID: 2173770927803121799, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
       propertyPath: m_Name
       value: Redmug (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 2173770927803121799, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 2173770927803121799, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2179514810187517755, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
       propertyPath: m_RootOrder
@@ -16104,6 +16151,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Redmug
       objectReference: {fileID: 0}
+    - target: {fileID: 2173770927803121799, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
+      propertyPath: m_Layer
+      value: 12
+      objectReference: {fileID: 0}
+    - target: {fileID: 2173770927803121799, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2179514810187517755, guid: 7a7fcb73f1500fc40a540c0ee51a6876, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -17514,7 +17569,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 853af1a5fadbd97499b84b913d78422f, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
